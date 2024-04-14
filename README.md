@@ -2,7 +2,7 @@
 automation 
 
 
-#tomcat - virtualhost
+# tomcat - virtualhost
 ![Screenshot from 2024-04-14 12-43-00](https://github.com/sarathsdev/scripts/assets/68682390/9e14a86f-f4b9-4bd6-910f-69d0eeaa7dfc)
 ![Screenshot from 2024-04-14 12-43-14](https://github.com/sarathsdev/scripts/assets/68682390/2b29af9e-b4ae-4c09-9665-d3186519965a)
 ![Screenshot from 2024-04-14 12-44-00](https://github.com/sarathsdev/scripts/assets/68682390/242dfbbe-499b-483d-a064-2096e608645b)
