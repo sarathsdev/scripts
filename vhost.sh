@@ -9,14 +9,12 @@ prompt_input() {
 # Function to stop Tomcat server
 stop_tomcat() {
     echo "Stopping Tomcat server..."
-    # Replace this command with the appropriate command for stopping Tomcat on your system
     "$TOMCAT_SHUTDOWN_SCRIPT"  # Call the Tomcat shutdown script
 }
 
 # Function to start Tomcat server
 start_tomcat() {
     echo "Starting Tomcat server..."
-    # Replace this command with the appropriate command for starting Tomcat on your system
     "$TOMCAT_STARTUP_SCRIPT"  # Call the Tomcat startup script
 }
 
